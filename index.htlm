@@ -1,0 +1,46 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width,initial-scale=1.0">
+<title> Growth1 | barretts book</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>Growth1</h1>
+<p> A story about becoming something from nothing
+</header>
+<nav>
+<a href="#about"> About</a>
+<a href="#buy"> Book</a>
+</nav>
+<div class="hero">
+<img src="Growth1-cover.jpg" alt= Growth1 book cover">
+<h2> Growth1 by barrett barrett</h2>
+<p>
+A journey of growth, faith, struggle, lesson and becoming the person you were meant to be.
+</p>
+</div>
+<div class="section"id="About">
+<h2>About the book</h2>
+<p>
+Growth1 tells the story of transformation- starting with challenges,building strength, and turning experience into purpose.
+</p>
+</div>
+<div class="section"id="buy">
+<h2> GET YOUR COPY </h2>
+<p>
+send payment through zelle, paypal, or shop on spotify.
+</p>
+<h3>barrettrikishi09@gmail.com</h3>
+<p>
+After payment,recieve your copy of Growth1.
+</p>
+</div>
+<footer>
+<p>&copy; 2026 barrett barrett| Growth1</p>
+</footer>
+</body>
+</html>
