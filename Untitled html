@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+content="width=device-width,initial-scale=1.0">
+<title> Growth1 | barretts book</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+   <h1>Growth1</h1>
+<p> A story about becoming something from nothing.</p>
+</header>
+<nav>
+<a href="#about"> About</a>
+<a href="#buy"> Book</a>
+<a href="#contact">contact</a>
+</nav>
+
+<div class="hero">
+<img src="Growth1-cover.jpg" alt= Growth1 book cover">
+
+<h2> Growth1 by barrett barrett</h2>
+
+<p>
+A journey of growth, faith, struggle, lesson and becoming the person you were meant to be.
+ </p>
+ <a href="#buy">buy Now</a>
+</div>
+
+<div id="About">
+<h2>About the book</h2>
+
+<p>
+Growth1 tells the story of transformation- starting with challenges,building strength, and turning experience into purpose.
+</p>
+</div>
+<div id="buy">
+<h2> GET YOUR COPY </h2>
+<p><strong>price:</strong> $150.00 + Tax</p>
+<p>
+send payment through <strong>Zelle</strong>, <strong>paypal</strong>, or purchase through your shopify store.
+</p>
+<h3>Zelle</h3>
+<p>barrettrikishi09@gmail.com</p>
+<p>
+After payment is recieve, you will receive your copy of <strong>Growth1</strong>.
+</p>
+</div>
+<div id="contact">
+<h2>Contact</h2>
+<p>Email: barrettrikishi09@gmail.com</p>
+</div>
+
+<footer>
+<p>&copy; 2026 barrett barrett| Growth1</p>
+</footer>
+
+</body>
+</html>
